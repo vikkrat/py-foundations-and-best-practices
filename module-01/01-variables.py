@@ -1,5 +1,7 @@
-# Create a variable name and assign it your name, for example, 'Viktoriia'. 
-# Create a variable age and assign it your age.
+'''
+Create a variable name and assign it your name, for example, 'Viktoriia'. 
+Create a variable age and assign it your age.
+'''
 
 # Substitute 'Viktoriia' with your actual name
 name = "Viktoriia"
