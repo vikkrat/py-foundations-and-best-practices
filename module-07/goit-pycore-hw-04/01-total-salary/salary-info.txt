@@ -1,0 +1,10 @@
+Alex Korp,3000
+Nikita Borisenko,2000
+Sitarama Raju,1000
+John Doe,2500
+Jane Smith,2800
+Michael Johnson,3200
+Elena Ivanova,1900
+Andrea Rossi,2200
+Chen Wei,1800
+Maria Garcia,2700
