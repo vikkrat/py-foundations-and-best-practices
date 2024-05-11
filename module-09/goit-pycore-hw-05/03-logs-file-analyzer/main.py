@@ -157,7 +157,6 @@ def main():
     if len(sys.argv) == 3:
         level = sys.argv[2]
         filtered_logs = filter_logs_by_level(logs, level)
-        filtered_counts = count_logs_by_level(filtered_logs)
         print(f"\nDetails for level '{level.upper()}':")
         for log in filtered_logs:
             print(f"{log['date_time']} - {log['message']}")
