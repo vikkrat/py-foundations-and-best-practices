@@ -94,7 +94,7 @@ def caching_fibonacci():
     # Return the nested function
     return fibonacci  
 
-# Example usage
+# Test the function
 fib = caching_fibonacci()
 
 # Calculate and print Fibonacci numbers using the memoized function
